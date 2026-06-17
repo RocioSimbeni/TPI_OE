@@ -1,0 +1,14 @@
+{
+    "1001": {
+        "nombre": "Ana Gomez",
+        "dias_disponibles": 4
+    },
+    "1002": {
+        "nombre": "Carlos Perez",
+        "dias_disponibles": 5
+    },
+    "1003": {
+        "nombre": "Lucia Fernandez",
+        "dias_disponibles": 0
+    }
+}
